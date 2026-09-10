@@ -7,7 +7,7 @@
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
-    "json-server": "json-server --watch data/ecomm.json --port 8001"
+    "start-api": "json-server --watch data/ecomm.json --port 8001"
   },
   "dependencies": {
     "@react-router/node": "^8",
