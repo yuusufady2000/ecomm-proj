@@ -1,0 +1,895 @@
+{
+  "Approved": [
+    {
+      "status": "accepted",
+      "id": "a-Mm0Nsjb34"
+    },
+    {
+      "status": "accepted",
+      "id": "K9-IdusZbOM"
+    }
+  ],
+  "Rejected": [],
+  "Users": [
+    {
+      "name": "Yusuf Adam",
+      "email": "yuusufady2000@gmail.com",
+      "phoneNumber": "07026304637",
+      "birthDate": "2026-09-08",
+      "storeName": "Zeal",
+      "businessCategory": "electronics",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "address": "MUSHIN",
+      "id": "Ggfdmn4uwRI"
+    },
+    {
+      "name": "Yusuf Adam",
+      "email": "dawahlecture@gmail.com",
+      "phoneNumber": "07026304637",
+      "birthDate": "2026-09-08",
+      "storeName": "Zeal",
+      "businessCategory": "electronics",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "address": "MUSHIN",
+      "id": "58THtS2plZ8"
+    },
+    {
+      "name": "Abdullah yusuf",
+      "email": "ay2816735@gmail.com",
+      "phoneNumber": "08105072610",
+      "birthDate": "2026-09-09",
+      "storeName": "Zeal",
+      "businessCategory": "home",
+      "country": "Nigeria",
+      "city": "Lagos",
+      "address": "MUSHIN",
+      "status": "pending",
+      "id": "yYxCSXZmOds"
+    }
+  ],
+  "Products": [
+    {
+      "id": "1",
+      "productType": "Cars",
+      "name": "Toyota Camry 2022",
+      "description": "A reliable midsize sedan with a comfortable interior, smooth performance, and excellent fuel economy.",
+      "price": 28500
+    },
+    {
+      "id": "2",
+      "productType": "Cars",
+      "name": "Honda Accord 2021",
+      "description": "A stylish and dependable sedan featuring a spacious cabin and efficient engine.",
+      "price": 26700
+    },
+    {
+      "id": "3",
+      "productType": "Cars",
+      "name": "Mercedes-Benz C300 2020",
+      "description": "A premium luxury sedan with modern technology, leather interior, and responsive performance.",
+      "price": 42000
+    },
+    {
+      "id": "4",
+      "productType": "Cars",
+      "name": "Lexus RX 350 2021",
+      "description": "A luxury SUV offering a refined interior, powerful engine, and comfortable ride.",
+      "price": 48500
+    },
+    {
+      "id": "5",
+      "productType": "Cars",
+      "name": "Toyota Corolla 2023",
+      "description": "A fuel-efficient compact sedan with modern safety features and a practical interior.",
+      "price": 23500
+    },
+    {
+      "id": "6",
+      "productType": "Cars",
+      "name": "Ford Explorer 2020",
+      "description": "A spacious family SUV with three-row seating, strong performance, and modern connectivity.",
+      "price": 34900
+    },
+    {
+      "id": "7",
+      "productType": "Cars",
+      "name": "Hyundai Elantra 2022",
+      "description": "A modern compact sedan with excellent fuel economy and a comfortable cabin.",
+      "price": 21800
+    },
+    {
+      "id": "8",
+      "productType": "Cars",
+      "name": "Kia Sportage 2021",
+      "description": "A practical crossover SUV with a stylish design, spacious cabin, and advanced safety features.",
+      "price": 27500
+    },
+    {
+      "id": "9",
+      "productType": "Cars",
+      "name": "BMW 330i 2020",
+      "description": "A sporty luxury sedan with powerful acceleration, premium materials, and advanced technology.",
+      "price": 39500
+    },
+    {
+      "id": "10",
+      "productType": "Cars",
+      "name": "Nissan Altima 2021",
+      "description": "A comfortable midsize sedan with modern styling, efficient performance, and a spacious cabin.",
+      "price": 22900
+    },
+    {
+      "id": "11",
+      "productType": "Cars",
+      "name": "Toyota RAV4 2022",
+      "description": "A versatile compact SUV with excellent reliability, practical storage, and comfortable seating.",
+      "price": 31800
+    },
+    {
+      "id": "12",
+      "productType": "Cars",
+      "name": "Honda CR-V 2020",
+      "description": "A dependable SUV with generous cargo space, comfortable seating, and strong fuel economy.",
+      "price": 29400
+    },
+    {
+      "id": "13",
+      "productType": "Cars",
+      "name": "Volkswagen Passat 2019",
+      "description": "A refined sedan with a spacious interior, smooth ride, and efficient turbocharged engine.",
+      "price": 20500
+    },
+    {
+      "id": "14",
+      "productType": "Cars",
+      "name": "Range Rover Evoque 2021",
+      "description": "A premium compact SUV combining luxury styling, capable performance, and advanced technology.",
+      "price": 46500
+    },
+    {
+      "id": "15",
+      "productType": "Cars",
+      "name": "Mazda CX-5 2022",
+      "description": "A stylish crossover SUV known for responsive handling, quality interior, and comfortable driving.",
+      "price": 28900
+    },
+    {
+      "id": "16",
+      "productType": "Cars",
+      "name": "Chevrolet Equinox 2020",
+      "description": "A practical family SUV with comfortable seating, good cargo capacity, and modern features.",
+      "price": 24100
+    },
+    {
+      "id": "17",
+      "productType": "Cars",
+      "name": "Audi A4 2021",
+      "description": "A premium compact sedan with sophisticated styling, advanced technology, and strong performance.",
+      "price": 38500
+    },
+    {
+      "id": "18",
+      "productType": "Cars",
+      "name": "Jeep Wrangler 2020",
+      "description": "A rugged off-road SUV with four-wheel drive capability and iconic styling.",
+      "price": 36500
+    },
+    {
+      "id": "19",
+      "productType": "Cars",
+      "name": "Hyundai Tucson 2022",
+      "description": "A comfortable compact SUV with modern technology, spacious seating, and efficient performance.",
+      "price": 27800
+    },
+    {
+      "id": "20",
+      "productType": "Cars",
+      "name": "Toyota Highlander 2021",
+      "description": "A spacious three-row SUV designed for families with a comfortable interior and dependable performance.",
+      "price": 39900
+    },
+    {
+      "id": "21",
+      "productType": "Electronics",
+      "name": "Samsung 55-inch 4K Smart TV",
+      "description": "A 4K smart television with vivid colors, streaming apps, and a slim modern design.",
+      "price": 649
+    },
+    {
+      "id": "22",
+      "productType": "Electronics",
+      "name": "Sony WH-1000XM5 Headphones",
+      "description": "Premium wireless headphones featuring active noise cancellation and high-quality audio.",
+      "price": 349
+    },
+    {
+      "id": "23",
+      "productType": "Electronics",
+      "name": "Apple AirPods Pro 2",
+      "description": "Wireless earbuds with active noise cancellation, transparency mode, and a compact charging case.",
+      "price": 249
+    },
+    {
+      "id": "24",
+      "productType": "Electronics",
+      "name": "Dell 27-inch Full HD Monitor",
+      "description": "A sharp 27-inch display suitable for office work, programming, entertainment, and everyday computing.",
+      "price": 229
+    },
+    {
+      "id": "25",
+      "productType": "Electronics",
+      "name": "JBL Charge 5 Speaker",
+      "description": "A portable Bluetooth speaker offering powerful sound, long battery life, and water resistance.",
+      "price": 179
+    },
+    {
+      "id": "26",
+      "productType": "Electronics",
+      "name": "Amazon Echo Dot",
+      "description": "A compact smart speaker with voice assistant functionality and smart-home control.",
+      "price": 59
+    },
+    {
+      "id": "27",
+      "productType": "Electronics",
+      "name": "Apple iPad 10th Generation",
+      "description": "A versatile tablet with a bright display, powerful processor, and support for productivity and entertainment.",
+      "price": 449
+    },
+    {
+      "id": "28",
+      "productType": "Electronics",
+      "name": "Samsung Galaxy Tab S9",
+      "description": "A premium Android tablet with a high-resolution display, powerful performance, and S Pen support.",
+      "price": 799
+    },
+    {
+      "id": "29",
+      "productType": "Electronics",
+      "name": "Logitech MX Master 3S",
+      "description": "An advanced wireless mouse designed for productivity with precision tracking and customizable controls.",
+      "price": 99
+    },
+    {
+      "id": "30",
+      "productType": "Electronics",
+      "name": "Keychron K2 Wireless Keyboard",
+      "description": "A compact mechanical keyboard with wireless connectivity and customizable RGB lighting.",
+      "price": 89
+    },
+    {
+      "id": "31",
+      "productType": "Electronics",
+      "name": "Canon EOS R50 Camera",
+      "description": "A compact mirrorless camera designed for photography and high-quality video recording.",
+      "price": 679
+    },
+    {
+      "id": "32",
+      "productType": "Electronics",
+      "name": "Anker 737 Power Bank",
+      "description": "A high-capacity portable charger with fast charging and a digital power display.",
+      "price": 129
+    },
+    {
+      "id": "33",
+      "productType": "Electronics",
+      "name": "TP-Link WiFi 6 Router",
+      "description": "A high-speed wireless router designed for reliable home networking and multiple connected devices.",
+      "price": 119
+    },
+    {
+      "id": "34",
+      "productType": "Electronics",
+      "name": "GoPro HERO12 Black",
+      "description": "A rugged action camera capable of recording high-resolution video for travel and outdoor activities.",
+      "price": 399
+    },
+    {
+      "id": "35",
+      "productType": "Electronics",
+      "name": "Bose SoundLink Flex",
+      "description": "A compact portable Bluetooth speaker with clear audio and a durable waterproof design.",
+      "price": 149
+    },
+    {
+      "id": "36",
+      "productType": "Electronics",
+      "name": "Apple Watch Series 9",
+      "description": "A smart watch offering fitness tracking, notifications, health features, and app support.",
+      "price": 399
+    },
+    {
+      "id": "37",
+      "productType": "Electronics",
+      "name": "Samsung Galaxy Buds2 Pro",
+      "description": "Premium wireless earbuds with active noise cancellation and immersive sound.",
+      "price": 189
+    },
+    {
+      "id": "38",
+      "productType": "Electronics",
+      "name": "Epson EcoTank Printer",
+      "description": "A refillable ink printer designed for economical home and small-office printing.",
+      "price": 299
+    },
+    {
+      "id": "39",
+      "productType": "Electronics",
+      "name": "Google Nest Hub",
+      "description": "A smart display for controlling compatible devices, viewing information, and entertainment.",
+      "price": 99
+    },
+    {
+      "id": "40",
+      "productType": "Electronics",
+      "name": "LG 32-inch Smart Monitor",
+      "description": "A versatile smart monitor suitable for work, streaming, browsing, and entertainment.",
+      "price": 329
+    },
+    {
+      "id": "41",
+      "productType": "Home Appliances",
+      "name": "LG 450L Double Door Refrigerator",
+      "description": "A spacious energy-efficient refrigerator with adjustable shelves and a large freezer compartment.",
+      "price": 1199
+    },
+    {
+      "id": "42",
+      "productType": "Home Appliances",
+      "name": "Samsung 8kg Washing Machine",
+      "description": "A modern front-load washing machine with multiple wash programs and energy-efficient operation.",
+      "price": 699
+    },
+    {
+      "id": "43",
+      "productType": "Home Appliances",
+      "name": "Hisense 32L Microwave Oven",
+      "description": "A practical microwave oven with multiple cooking settings and a user-friendly control panel.",
+      "price": 179
+    },
+    {
+      "id": "44",
+      "productType": "Home Appliances",
+      "name": "Philips Air Fryer XL",
+      "description": "A large-capacity air fryer designed to prepare crispy meals using significantly less oil.",
+      "price": 149
+    },
+    {
+      "id": "45",
+      "productType": "Home Appliances",
+      "name": "Binatone Electric Blender",
+      "description": "A powerful kitchen blender suitable for smoothies, sauces, soups, and food preparation.",
+      "price": 69
+    },
+    {
+      "id": "46",
+      "productType": "Home Appliances",
+      "name": "Haier Thermocool Chest Freezer",
+      "description": "A durable chest freezer offering generous storage capacity for frozen food and beverages.",
+      "price": 499
+    },
+    {
+      "id": "47",
+      "productType": "Home Appliances",
+      "name": "Nexus Electric Kettle",
+      "description": "A fast-boiling electric kettle with automatic shutoff and a convenient cordless design.",
+      "price": 39
+    },
+    {
+      "id": "48",
+      "productType": "Home Appliances",
+      "name": "LG 1.5HP Split Air Conditioner",
+      "description": "An efficient split air conditioner designed to provide fast and comfortable cooling.",
+      "price": 799
+    },
+    {
+      "id": "49",
+      "productType": "Home Appliances",
+      "name": "Samsung 4-Burner Gas Cooker",
+      "description": "A four-burner cooker with a spacious cooking surface and durable stainless-steel construction.",
+      "price": 329
+    },
+    {
+      "id": "50",
+      "productType": "Home Appliances",
+      "name": "Panasonic Steam Iron",
+      "description": "A powerful steam iron designed to remove wrinkles quickly from different types of clothing.",
+      "price": 59
+    },
+    {
+      "id": "51",
+      "productType": "Home Appliances",
+      "name": "Kenwood Stand Mixer",
+      "description": "A versatile kitchen mixer suitable for baking, dough preparation, and everyday cooking.",
+      "price": 299
+    },
+    {
+      "id": "52",
+      "productType": "Home Appliances",
+      "name": "Russell Hobbs Toaster",
+      "description": "A stylish two-slice toaster with adjustable browning levels and easy cleaning.",
+      "price": 49
+    },
+    {
+      "id": "53",
+      "productType": "Home Appliances",
+      "name": "Dyson V8 Cordless Vacuum",
+      "description": "A lightweight cordless vacuum cleaner with strong suction and convenient handheld operation.",
+      "price": 399
+    },
+    {
+      "id": "54",
+      "productType": "Home Appliances",
+      "name": "Tefal Electric Grill",
+      "description": "A compact indoor grill with adjustable temperature controls for convenient cooking.",
+      "price": 109
+    },
+    {
+      "id": "55",
+      "productType": "Home Appliances",
+      "name": "Midea 20L Water Dispenser",
+      "description": "A compact water dispenser providing convenient access to chilled and room-temperature water.",
+      "price": 129
+    },
+    {
+      "id": "56",
+      "productType": "Home Appliances",
+      "name": "LG 43-inch Smart TV",
+      "description": "A smart television with a sharp display, streaming apps, and built-in Wi-Fi.",
+      "price": 449
+    },
+    {
+      "id": "57",
+      "productType": "Home Appliances",
+      "name": "Samsung 7kg Dryer",
+      "description": "An efficient clothes dryer with multiple drying programs for different fabrics.",
+      "price": 649
+    },
+    {
+      "id": "58",
+      "productType": "Home Appliances",
+      "name": "Morphy Richards Rice Cooker",
+      "description": "An easy-to-use rice cooker with automatic keep-warm functionality.",
+      "price": 69
+    },
+    {
+      "id": "59",
+      "productType": "Home Appliances",
+      "name": "Electrolux Vacuum Cleaner",
+      "description": "A powerful household vacuum designed for cleaning carpets, floors, and upholstery.",
+      "price": 189
+    },
+    {
+      "id": "60",
+      "productType": "Home Appliances",
+      "name": "Hisense 12kg Washing Machine",
+      "description": "A large-capacity washing machine designed for family-sized laundry loads.",
+      "price": 599
+    },
+    {
+      "id": "61",
+      "productType": "Lands",
+      "name": "Residential Plot in Lekki",
+      "description": "A well-positioned residential plot suitable for building a modern family home in a developing area.",
+      "price": 45000
+    },
+    {
+      "id": "62",
+      "productType": "Lands",
+      "name": "Residential Plot in Ajah",
+      "description": "A serviced residential land parcel located in a growing neighborhood with good road access.",
+      "price": 32000
+    },
+    {
+      "id": "63",
+      "productType": "Lands",
+      "name": "Commercial Land in Ikeja",
+      "description": "A strategically located commercial plot suitable for offices, retail, or other business development.",
+      "price": 85000
+    },
+    {
+      "id": "64",
+      "productType": "Lands",
+      "name": "Residential Land in Sangotedo",
+      "description": "A spacious residential plot located close to major roads, schools, and shopping areas.",
+      "price": 28000
+    },
+    {
+      "id": "65",
+      "productType": "Lands",
+      "name": "Estate Plot in Ibeju-Lekki",
+      "description": "A residential estate plot in a rapidly developing area with future investment potential.",
+      "price": 18000
+    },
+    {
+      "id": "66",
+      "productType": "Lands",
+      "name": "Commercial Plot in Yaba",
+      "description": "A centrally positioned plot suitable for commercial development, offices, or retail space.",
+      "price": 72000
+    },
+    {
+      "id": "67",
+      "productType": "Lands",
+      "name": "Residential Land in Gwarinpa",
+      "description": "A residential plot in a developed Abuja neighborhood with access to roads and essential services.",
+      "price": 38000
+    },
+    {
+      "id": "68",
+      "productType": "Lands",
+      "name": "Residential Plot in Wuse",
+      "description": "A premium residential plot in a well-established Abuja district.",
+      "price": 95000
+    },
+    {
+      "id": "69",
+      "productType": "Lands",
+      "name": "Agricultural Land in Ogun",
+      "description": "A large parcel of fertile land suitable for farming, agricultural projects, or long-term investment.",
+      "price": 22000
+    },
+    {
+      "id": "70",
+      "productType": "Lands",
+      "name": "Estate Land in Epe",
+      "description": "A developing residential plot suitable for investors looking for affordable property opportunities.",
+      "price": 16000
+    },
+    {
+      "id": "71",
+      "productType": "Lands",
+      "name": "Residential Land in Port Harcourt",
+      "description": "A well-located plot suitable for residential construction in a growing neighborhood.",
+      "price": 41000
+    },
+    {
+      "id": "72",
+      "productType": "Lands",
+      "name": "Commercial Land in Port Harcourt",
+      "description": "A strategically positioned commercial property plot suitable for business development.",
+      "price": 68000
+    },
+    {
+      "id": "73",
+      "productType": "Lands",
+      "name": "Residential Plot in Enugu",
+      "description": "A peaceful residential land parcel suitable for building a family home.",
+      "price": 25000
+    },
+    {
+      "id": "74",
+      "productType": "Lands",
+      "name": "Estate Plot in Ibadan",
+      "description": "An affordable estate plot located in a developing residential community.",
+      "price": 14000
+    },
+    {
+      "id": "75",
+      "productType": "Lands",
+      "name": "Residential Land in Abuja",
+      "description": "A spacious plot in a developing Abuja district with potential for residential construction.",
+      "price": 55000
+    },
+    {
+      "id": "76",
+      "productType": "Lands",
+      "name": "Commercial Land in Surulere",
+      "description": "A well-positioned Lagos plot suitable for shops, offices, or mixed-use development.",
+      "price": 78000
+    },
+    {
+      "id": "77",
+      "productType": "Lands",
+      "name": "Residential Land in Ikorodu",
+      "description": "An affordable residential plot with access to major roads and nearby community facilities.",
+      "price": 19000
+    },
+    {
+      "id": "78",
+      "productType": "Lands",
+      "name": "Agricultural Land in Osun",
+      "description": "A large agricultural property suitable for farming, plantations, and agricultural investment.",
+      "price": 12000
+    },
+    {
+      "id": "79",
+      "productType": "Lands",
+      "name": "Residential Plot in Badagry",
+      "description": "An affordable plot suitable for residential development and long-term property investment.",
+      "price": 11000
+    },
+    {
+      "id": "80",
+      "productType": "Lands",
+      "name": "Premium Land in Victoria Island",
+      "description": "A high-value commercial and residential development plot in a prime Lagos location.",
+      "price": 150000
+    },
+    {
+      "id": "81",
+      "productType": "Mobiles",
+      "name": "iPhone 15 Pro",
+      "description": "A premium smartphone with a titanium design, powerful processor, advanced cameras, and bright display.",
+      "price": 999
+    },
+    {
+      "id": "82",
+      "productType": "Mobiles",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "A flagship Android smartphone featuring a high-resolution camera system, S Pen, and powerful performance.",
+      "price": 1199
+    },
+    {
+      "id": "83",
+      "productType": "Mobiles",
+      "name": "Google Pixel 8 Pro",
+      "description": "A premium smartphone with advanced computational photography and a clean Android experience.",
+      "price": 899
+    },
+    {
+      "id": "84",
+      "productType": "Mobiles",
+      "name": "OnePlus 12",
+      "description": "A high-performance smartphone with a fast processor, large display, and fast charging.",
+      "price": 799
+    },
+    {
+      "id": "85",
+      "productType": "Mobiles",
+      "name": "Xiaomi 14",
+      "description": "A compact flagship smartphone offering strong performance, premium cameras, and fast charging.",
+      "price": 699
+    },
+    {
+      "id": "86",
+      "productType": "Mobiles",
+      "name": "Tecno Camon 30",
+      "description": "A stylish smartphone focused on photography, display quality, and everyday performance.",
+      "price": 299
+    },
+    {
+      "id": "87",
+      "productType": "Mobiles",
+      "name": "Infinix Note 40 Pro",
+      "description": "A feature-packed smartphone with a large AMOLED display, fast charging, and capable cameras.",
+      "price": 269
+    },
+    {
+      "id": "88",
+      "productType": "Mobiles",
+      "name": "Samsung Galaxy A55",
+      "description": "A mid-range smartphone with a premium build, bright display, and reliable camera system.",
+      "price": 399
+    },
+    {
+      "id": "89",
+      "productType": "Mobiles",
+      "name": "iPhone 14",
+      "description": "A powerful Apple smartphone with a high-quality camera system, bright display, and excellent performance.",
+      "price": 699
+    },
+    {
+      "id": "90",
+      "productType": "Mobiles",
+      "name": "iPhone 13",
+      "description": "A reliable smartphone with strong performance, excellent cameras, and long software support.",
+      "price": 599
+    },
+    {
+      "id": "91",
+      "productType": "Mobiles",
+      "name": "Redmi Note 13 Pro",
+      "description": "A value-focused smartphone with a high-resolution camera, AMOLED display, and large battery.",
+      "price": 299
+    },
+    {
+      "id": "92",
+      "productType": "Mobiles",
+      "name": "Oppo Reno 11",
+      "description": "A stylish smartphone with a vibrant display, capable cameras, and fast charging technology.",
+      "price": 449
+    },
+    {
+      "id": "93",
+      "productType": "Mobiles",
+      "name": "Vivo V30",
+      "description": "A slim smartphone with a bright display, strong camera performance, and fast charging.",
+      "price": 429
+    },
+    {
+      "id": "94",
+      "productType": "Mobiles",
+      "name": "Nokia G42",
+      "description": "A practical Android smartphone with a durable design, long battery life, and reliable performance.",
+      "price": 249
+    },
+    {
+      "id": "95",
+      "productType": "Mobiles",
+      "name": "Motorola Edge 40",
+      "description": "A sleek smartphone with a smooth display, capable cameras, and fast charging.",
+      "price": 399
+    },
+    {
+      "id": "96",
+      "productType": "Mobiles",
+      "name": "Nothing Phone 2",
+      "description": "A distinctive smartphone featuring a clean interface, unique design, and smooth performance.",
+      "price": 599
+    },
+    {
+      "id": "97",
+      "productType": "Mobiles",
+      "name": "Realme 12 Pro",
+      "description": "A stylish mid-range smartphone with a large display, strong camera system, and fast charging.",
+      "price": 349
+    },
+    {
+      "id": "98",
+      "productType": "Mobiles",
+      "name": "Honor 90",
+      "description": "A modern smartphone with a high-resolution display, capable cameras, and long battery life.",
+      "price": 379
+    },
+    {
+      "id": "99",
+      "productType": "Mobiles",
+      "name": "Sony Xperia 10 V",
+      "description": "A compact smartphone with a cinematic display, good battery life, and quality audio features.",
+      "price": 399
+    },
+    {
+      "id": "100",
+      "productType": "Mobiles",
+      "name": "Asus ROG Phone 8",
+      "description": "A gaming-focused smartphone with powerful hardware, high-refresh display, and advanced cooling.",
+      "price": 1099
+    },
+    {
+      "id": "101",
+      "productType": "Motorcycles",
+      "name": "Honda CB500F",
+      "description": "A versatile street motorcycle offering smooth performance, comfortable handling, and dependable reliability.",
+      "price": 7499
+    },
+    {
+      "id": "102",
+      "productType": "Motorcycles",
+      "name": "Yamaha MT-07",
+      "description": "A lightweight naked motorcycle known for responsive handling and strong mid-range performance.",
+      "price": 8199
+    },
+    {
+      "id": "103",
+      "productType": "Motorcycles",
+      "name": "Kawasaki Ninja 400",
+      "description": "A sporty motorcycle with agile handling, comfortable ergonomics, and impressive performance.",
+      "price": 6799
+    },
+    {
+      "id": "104",
+      "productType": "Motorcycles",
+      "name": "Suzuki GSX-R750",
+      "description": "A performance-oriented sport motorcycle designed for riders seeking speed and precise handling.",
+      "price": 12999
+    },
+    {
+      "id": "105",
+      "productType": "Motorcycles",
+      "name": "KTM Duke 390",
+      "description": "A lightweight street bike with aggressive styling, responsive performance, and modern electronics.",
+      "price": 6499
+    },
+    {
+      "id": "106",
+      "productType": "Motorcycles",
+      "name": "Honda Africa Twin",
+      "description": "An adventure motorcycle designed for long-distance travel, touring, and off-road riding.",
+      "price": 14999
+    },
+    {
+      "id": "107",
+      "productType": "Motorcycles",
+      "name": "Yamaha R7",
+      "description": "A sleek sport motorcycle combining strong performance, lightweight handling, and aggressive styling.",
+      "price": 8799
+    },
+    {
+      "id": "108",
+      "productType": "Motorcycles",
+      "name": "Kawasaki Z650",
+      "description": "A practical naked motorcycle with responsive performance and comfortable everyday ergonomics.",
+      "price": 8199
+    },
+    {
+      "id": "109",
+      "productType": "Motorcycles",
+      "name": "Royal Enfield Classic 350",
+      "description": "A classic-styled motorcycle offering relaxed riding characteristics and timeless design.",
+      "price": 5799
+    },
+    {
+      "id": "110",
+      "productType": "Motorcycles",
+      "name": "BMW G 310 R",
+      "description": "A compact premium roadster with agile handling and modern styling.",
+      "price": 5195
+    },
+    {
+      "id": "111",
+      "productType": "Motorcycles",
+      "name": "Ducati Monster",
+      "description": "A premium naked motorcycle combining Italian styling with powerful performance and modern electronics.",
+      "price": 12995
+    },
+    {
+      "id": "112",
+      "productType": "Motorcycles",
+      "name": "Harley-Davidson Iron 883",
+      "description": "A classic cruiser motorcycle with distinctive styling, comfortable riding position, and strong road presence.",
+      "price": 9999
+    },
+    {
+      "id": "113",
+      "productType": "Motorcycles",
+      "name": "Triumph Street Triple",
+      "description": "A sporty naked motorcycle offering precise handling, strong acceleration, and premium components.",
+      "price": 10995
+    },
+    {
+      "id": "114",
+      "productType": "Motorcycles",
+      "name": "Aprilia RS 660",
+      "description": "A lightweight sport motorcycle with advanced electronics, responsive handling, and aggressive styling.",
+      "price": 11999
+    },
+    {
+      "id": "115",
+      "productType": "Motorcycles",
+      "name": "Honda Rebel 500",
+      "description": "A comfortable cruiser-style motorcycle suitable for everyday riding and longer weekend trips.",
+      "price": 6499
+    },
+    {
+      "id": "116",
+      "productType": "Motorcycles",
+      "name": "Yamaha Tenere 700",
+      "description": "A capable adventure motorcycle built for long-distance touring and challenging terrain.",
+      "price": 10999
+    },
+    {
+      "id": "117",
+      "productType": "Motorcycles",
+      "name": "KTM RC 390",
+      "description": "A lightweight sport bike with sharp handling, aggressive styling, and strong performance.",
+      "price": 5799
+    },
+    {
+      "id": "118",
+      "productType": "Motorcycles",
+      "name": "Suzuki SV650",
+      "description": "A versatile motorcycle offering smooth power delivery, easy handling, and everyday practicality.",
+      "price": 7799
+    },
+    {
+      "id": "119",
+      "productType": "Motorcycles",
+      "name": "Benelli TRK 502",
+      "description": "A touring-focused adventure motorcycle with comfortable ergonomics and generous luggage capability.",
+      "price": 6999
+    },
+    {
+      "id": "120",
+      "productType": "Motorcycles",
+      "name": "CFMoto 650NK",
+      "description": "A modern naked motorcycle with sporty styling, comfortable ergonomics, and strong performance.",
+      "price": 6999
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
