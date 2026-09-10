@@ -12,7 +12,7 @@ const  DetailPage = () => {
 
     const fetchProduct = async () => {
       try {
-        const res = await fetch(`http://localhost:8001/Products/${id}`);
+        const res = await fetch(`https://ecomm-proj-2.onrender.com/Products/${id}`);
         const data = await res.json();
         setProduct(data);
         setLoading(false);
@@ -24,7 +24,7 @@ const  DetailPage = () => {
 
     const fetchRelatedProducts = async () => {
       try {
-        const res = await fetch(`http://localhost:8001/Products`);
+        const res = await fetch(`https://ecomm-proj-2.onrender.com/Products`);
         const data: Product[] = await res.json();
        if(product) {
         const related = data.filter((item) => 

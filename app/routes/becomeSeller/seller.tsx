@@ -92,7 +92,7 @@ const [formData, setFormData] = useState({
   const submitApplication = async () => {
     try {
       const response = await fetch(
-        "http://localhost:3001/User",
+        "https://admin-app-1-se24.onrender.com/User",
         {
           method: "POST",
           headers: {

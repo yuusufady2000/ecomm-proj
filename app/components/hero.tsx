@@ -21,7 +21,7 @@ const Hero = () => {
 
   const fetchProduct = async () => {
     try {
-      const res = await fetch("http://localhost:8001/Products");
+      const res = await fetch("https://ecomm-proj-2.onrender.com/Products");
       const data = await res.json();
 
       setFeaturesProduct(data);
